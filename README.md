@@ -17,6 +17,8 @@ integração com pipelines CI/CD (Jenkins) e validação de dados via SQL/XML.
 
 [![My Skills](https://skillicons.dev/icons?i=python,pycharm,jenkins,postgres,mysql)](https://skillicons.dev)
 
-### 🧪 Portfólio de Automação de Testes
+## 🚀 QA Automation Portfolio
+
+Automação de testes E2E para aplicações web utilizando Python + Playwright.
 
 [![Portfolio](https://img.shields.io/badge/QA%20Portfolio-Playwright%20%7C%20Python-blue?style=for-the-badge&logo=github)](https://github.com/Hoffmann-neo/PythonProject)
