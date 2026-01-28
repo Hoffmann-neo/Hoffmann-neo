@@ -15,7 +15,7 @@ integração com pipelines CI/CD (Jenkins) e validação de dados via SQL/XML.
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=python,pycharm,jenkins,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,jenkins,postman,postgres,mysql)](https://skillicons.dev)
 
 ## 🚀 QA Automation Portfolio
 
