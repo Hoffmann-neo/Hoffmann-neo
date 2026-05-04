@@ -21,9 +21,9 @@ Conversão e validação de dados via SQL/XML.
 
 Automação de testes E2E para aplicações web utilizando Python + Playwright.
 
-[![Portfolio](https://img.shields.io/badge/QA/ETL%20Portfolios%20%7C%20Python_&_Pandas-blue?style=for-the-badge&logo=github)](https://github.com/Hoffmann-neo/WHoff-QA-Portfolio)
+[![Portfolio](https://img.shields.io/badge/%20Portfolios%20%7C%20Python_&_Pandas-blue?style=for-the-badge&logo=github)](https://github.com/Hoffmann-neo/WHoff-QA-Portfolio)
 
-[![Portfolio](https://img.shields.io/badge/QA/ETL%20Portfolios%20%7C%20n8n,Google_Sheets_IA.-blue?style=for-the-badge&logo=github)](https://github.com/Hoffmann-neo/cs-hoffmann-chatbot-n8n)
+[![Portfolio](https://img.shields.io/badge/%20Portfolios%20%7C%20n8nGoogle_Sheets_IA.-blue?style=for-the-badge&logo=github)](https://github.com/Hoffmann-neo/cs-hoffmann-chatbot-n8n)
 
 [![Credly](https://img.shields.io/badge/QA%20Credly%20%7C%20Certificações-blue?style=for-the-badge&logo=github)]([![Certificações](https://img.shields.io/badge/QA%20Portfolio-Playwright%20%7C%20Certificações-blue?style=for-the-badge&logo=github)](https://github.com/Hoffmann-neo/PythonProject))
 
